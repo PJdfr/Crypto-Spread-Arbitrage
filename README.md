@@ -3,6 +3,7 @@ This repository contains a project that leverages historical data to design and 
 
 ## Key Components:
 Backtest Notebook: A Jupyter notebook that uses historical data from Kraken to simulate the arbitrage strategy. The notebook includes data analysis, strategy development, and performance metrics to evaluate the effectiveness of the arbitrage model over time.
+
 Live Dashboard: A real-time monitoring dashboard that tracks the spread between spot prices and perpetual futures for various cryptocurrencies. It provides live updates on the market and flags potential arbitrage opportunities based on real-time data pulled from Kraken's API.
 ## Features:
 Spot vs Perpetual Futures Spread: Analyzes the price differences between spot cryptocurrencies and their corresponding perpetual futures on Kraken, looking for arbitrage opportunities.
