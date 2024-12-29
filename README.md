@@ -9,10 +9,6 @@ Spot vs Perpetual Futures Spread: Analyzes the price differences between spot cr
 Historical Backtesting: The backtest notebook evaluates how the strategy would have performed in the past using historical price data, helping to refine the approach and assess its profitability under different market conditions.
 Real-Time Data: The live dashboard displays the current spread for selected cryptocurrencies, updating every minute to reflect market changes and highlight potential arbitrage opportunities as they occur.
 
-## Requirements:
-Python 3.x
-Libraries: pandas, numpy, matplotlib, requests, krakenex, and any additional dependencies listed in requirements.txt
-Kraken API access for real-time data
 
 ## How to Use:
 Clone the repository.
